@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/votingPoll/static/css/main.767f4197.chunk.css",
+    "main.js": "/votingPoll/static/js/main.c621891f.chunk.js",
+    "main.js.map": "/votingPoll/static/js/main.c621891f.chunk.js.map",
+    "runtime-main.js": "/votingPoll/static/js/runtime-main.de23a9a7.js",
+    "runtime-main.js.map": "/votingPoll/static/js/runtime-main.de23a9a7.js.map",
+    "static/js/2.abb41b11.chunk.js": "/votingPoll/static/js/2.abb41b11.chunk.js",
+    "static/js/2.abb41b11.chunk.js.map": "/votingPoll/static/js/2.abb41b11.chunk.js.map",
+    "index.html": "/votingPoll/index.html",
+    "precache-manifest.903a86ec481fa366b89e35204528a52a.js": "/votingPoll/precache-manifest.903a86ec481fa366b89e35204528a52a.js",
+    "service-worker.js": "/votingPoll/service-worker.js",
+    "static/css/main.767f4197.chunk.css.map": "/votingPoll/static/css/main.767f4197.chunk.css.map",
+    "static/js/2.abb41b11.chunk.js.LICENSE.txt": "/votingPoll/static/js/2.abb41b11.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.de23a9a7.js",
+    "static/js/2.abb41b11.chunk.js",
+    "static/css/main.767f4197.chunk.css",
+    "static/js/main.c621891f.chunk.js"
+  ]
+}
